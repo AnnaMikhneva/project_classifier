@@ -1,2 +1,2 @@
-# course_paper3
+# Проект по программированию
 Classifier for annotation verification
