@@ -1,7 +1,7 @@
 # Project
 ### Classifier for annotation verification
 #### Mikhneva Anna
-The purpose of my work was to create a trained classifier that will be able to determine the suitability of an annotation for use, that is, its quality and informativeness.\ 
+The purpose of my work was to create a trained classifier that will be able to determine the suitability of an annotation for use, that is, its quality and informativeness.\
 The main steps of the project were:
 1. data collection from openalex (file "r script.R")
 2. data markup for our purposes using the first classifier and error matrices that were output, as well as dataset analysis (files "preprocessing.ipynb" and "classificator1.ipynb")
